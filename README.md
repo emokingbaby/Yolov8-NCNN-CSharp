@@ -4,7 +4,7 @@
 >YOLOv8 C# library based on Tencent NCNN, easy to run AI vision models with just a few lines of code.You don't need to know anything about AI algorithms!
 
 <p align="center">
-  <img src="https://github.com/emokingbaby/Yolov8-NCNN-CSharp/blob/main/ReadmeImgs/Yolov8NcnnCsharp.webp?raw=true" alt="Yolov8NcnnCsharp">
+  <img src="./ReadmeImgs/Yolov8NcnnCsharp.webp" alt="Yolov8NcnnCsharp">
 </p>
 
 
@@ -58,9 +58,9 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://github.com/emokingbaby/Yolov8-NCNN-CSharp/blob/main/ReadmeImgs/KLBQ.jpg?raw=true" alt="KLBQ" height="200"></td>
-    <td align="center"><img src="https://github.com/emokingbaby/Yolov8-NCNN-CSharp/blob/main/ReadmeImgs/OverWatch.jpg?raw=true" alt="OverWatch" height="200"></td>
-    <td align="center"><img src="https://github.com/emokingbaby/Yolov8-NCNN-CSharp/blob/main/ReadmeImgs/Result.jpg?raw=true" alt="Result" height="200"></td>
+    <td align="center"><img src="./ReadmeImgs/KLBQ.jpg" alt="KLBQ" height="200"></td>
+    <td align="center"><img src="./ReadmeImgs/OverWatch.jpg" alt="OverWatch" height="200"></td>
+    <td align="center"><img src="./ReadmeImgs/Result.jpg" alt="Result" height="200"></td>
   </tr>
 </table>
 
